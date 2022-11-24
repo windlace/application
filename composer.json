@@ -2,7 +2,7 @@
   "name": "cast/application",
   "description": "application",
   "type": "library",
-  "license": "proprietary",
+  "license": "MIT",
   "require": {
     "php": ">=8.0",
     "symfony/dependency-injection": "^6.0"
