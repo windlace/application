@@ -1,0 +1,15 @@
+{
+  "name": "cast/application",
+  "description": "application",
+  "type": "library",
+  "license": "proprietary",
+  "require": {
+    "php": ">=8.0",
+    "symfony/dependency-injection": "^6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Package\\Application\\": "./src"
+    }
+  }
+}
